@@ -76,6 +76,10 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+    },
+    "olyy": {
+      "api": "https://raw.githubusercontent.com/trial/dp/master/json2/olevod.json",
+      "name": "欧乐影院"
     }
   }
 }
